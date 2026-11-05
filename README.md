@@ -28,6 +28,7 @@ Classificar o sentimento (positivo ou negativo) de publicações em redes sociai
 ```
 notebooks/01_analise_sentimentos_final.ipynb   projeto completo, com resultados
 notebooks/02_classificacao_relatorio.ipynb     versão anterior focada na classificação
+docs/apresentacao_text_mining.pdf              apresentação do projeto (15 slides)
 ```
 
 ## Stack
